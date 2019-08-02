@@ -1,0 +1,187 @@
+[
+{
+  "directory": "/Users/eitanya/src/pcre/build",
+  "command": "/usr/bin/clang -DHAVE_CONFIG_H -I. -I../  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/pcre.dir/pcre_byte_order.c.o   -c /Users/eitanya/src/pcre/pcre_byte_order.c",
+  "file": "/Users/eitanya/src/pcre/pcre_byte_order.c"
+},
+
+{
+  "directory": "/Users/eitanya/src/pcre/build",
+  "command": "/usr/bin/clang -DHAVE_CONFIG_H -I. -I../  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/pcre.dir/pcre_chartables.c.o   -c /Users/eitanya/src/pcre/build/pcre_chartables.c",
+  "file": "/Users/eitanya/src/pcre/build/pcre_chartables.c"
+},
+
+{
+  "directory": "/Users/eitanya/src/pcre/build",
+  "command": "/usr/bin/clang -DHAVE_CONFIG_H -I. -I../  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/pcre.dir/pcre_compile.c.o   -c /Users/eitanya/src/pcre/pcre_compile.c",
+  "file": "/Users/eitanya/src/pcre/pcre_compile.c"
+},
+
+{
+  "directory": "/Users/eitanya/src/pcre/build",
+  "command": "/usr/bin/clang -DHAVE_CONFIG_H -I. -I../  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/pcre.dir/pcre_config.c.o   -c /Users/eitanya/src/pcre/pcre_config.c",
+  "file": "/Users/eitanya/src/pcre/pcre_config.c"
+},
+
+{
+  "directory": "/Users/eitanya/src/pcre/build",
+  "command": "/usr/bin/clang -DHAVE_CONFIG_H -I. -I../  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/pcre.dir/pcre_dfa_exec.c.o   -c /Users/eitanya/src/pcre/pcre_dfa_exec.c",
+  "file": "/Users/eitanya/src/pcre/pcre_dfa_exec.c"
+},
+
+{
+  "directory": "/Users/eitanya/src/pcre/build",
+  "command": "/usr/bin/clang -DHAVE_CONFIG_H -I. -I../  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/pcre.dir/pcre_exec.c.o   -c /Users/eitanya/src/pcre/pcre_exec.c",
+  "file": "/Users/eitanya/src/pcre/pcre_exec.c"
+},
+
+{
+  "directory": "/Users/eitanya/src/pcre/build",
+  "command": "/usr/bin/clang -DHAVE_CONFIG_H -I. -I../  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/pcre.dir/pcre_fullinfo.c.o   -c /Users/eitanya/src/pcre/pcre_fullinfo.c",
+  "file": "/Users/eitanya/src/pcre/pcre_fullinfo.c"
+},
+
+{
+  "directory": "/Users/eitanya/src/pcre/build",
+  "command": "/usr/bin/clang -DHAVE_CONFIG_H -I. -I../  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/pcre.dir/pcre_get.c.o   -c /Users/eitanya/src/pcre/pcre_get.c",
+  "file": "/Users/eitanya/src/pcre/pcre_get.c"
+},
+
+{
+  "directory": "/Users/eitanya/src/pcre/build",
+  "command": "/usr/bin/clang -DHAVE_CONFIG_H -I. -I../  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/pcre.dir/pcre_globals.c.o   -c /Users/eitanya/src/pcre/pcre_globals.c",
+  "file": "/Users/eitanya/src/pcre/pcre_globals.c"
+},
+
+{
+  "directory": "/Users/eitanya/src/pcre/build",
+  "command": "/usr/bin/clang -DHAVE_CONFIG_H -I. -I../  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/pcre.dir/pcre_jit_compile.c.o   -c /Users/eitanya/src/pcre/pcre_jit_compile.c",
+  "file": "/Users/eitanya/src/pcre/pcre_jit_compile.c"
+},
+
+{
+  "directory": "/Users/eitanya/src/pcre/build",
+  "command": "/usr/bin/clang -DHAVE_CONFIG_H -I. -I../  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/pcre.dir/pcre_maketables.c.o   -c /Users/eitanya/src/pcre/pcre_maketables.c",
+  "file": "/Users/eitanya/src/pcre/pcre_maketables.c"
+},
+
+{
+  "directory": "/Users/eitanya/src/pcre/build",
+  "command": "/usr/bin/clang -DHAVE_CONFIG_H -I. -I../  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/pcre.dir/pcre_newline.c.o   -c /Users/eitanya/src/pcre/pcre_newline.c",
+  "file": "/Users/eitanya/src/pcre/pcre_newline.c"
+},
+
+{
+  "directory": "/Users/eitanya/src/pcre/build",
+  "command": "/usr/bin/clang -DHAVE_CONFIG_H -I. -I../  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/pcre.dir/pcre_ord2utf8.c.o   -c /Users/eitanya/src/pcre/pcre_ord2utf8.c",
+  "file": "/Users/eitanya/src/pcre/pcre_ord2utf8.c"
+},
+
+{
+  "directory": "/Users/eitanya/src/pcre/build",
+  "command": "/usr/bin/clang -DHAVE_CONFIG_H -I. -I../  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/pcre.dir/pcre_refcount.c.o   -c /Users/eitanya/src/pcre/pcre_refcount.c",
+  "file": "/Users/eitanya/src/pcre/pcre_refcount.c"
+},
+
+{
+  "directory": "/Users/eitanya/src/pcre/build",
+  "command": "/usr/bin/clang -DHAVE_CONFIG_H -I. -I../  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/pcre.dir/pcre_string_utils.c.o   -c /Users/eitanya/src/pcre/pcre_string_utils.c",
+  "file": "/Users/eitanya/src/pcre/pcre_string_utils.c"
+},
+
+{
+  "directory": "/Users/eitanya/src/pcre/build",
+  "command": "/usr/bin/clang -DHAVE_CONFIG_H -I. -I../  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/pcre.dir/pcre_study.c.o   -c /Users/eitanya/src/pcre/pcre_study.c",
+  "file": "/Users/eitanya/src/pcre/pcre_study.c"
+},
+
+{
+  "directory": "/Users/eitanya/src/pcre/build",
+  "command": "/usr/bin/clang -DHAVE_CONFIG_H -I. -I../  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/pcre.dir/pcre_tables.c.o   -c /Users/eitanya/src/pcre/pcre_tables.c",
+  "file": "/Users/eitanya/src/pcre/pcre_tables.c"
+},
+
+{
+  "directory": "/Users/eitanya/src/pcre/build",
+  "command": "/usr/bin/clang -DHAVE_CONFIG_H -I. -I../  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/pcre.dir/pcre_ucd.c.o   -c /Users/eitanya/src/pcre/pcre_ucd.c",
+  "file": "/Users/eitanya/src/pcre/pcre_ucd.c"
+},
+
+{
+  "directory": "/Users/eitanya/src/pcre/build",
+  "command": "/usr/bin/clang -DHAVE_CONFIG_H -I. -I../  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/pcre.dir/pcre_valid_utf8.c.o   -c /Users/eitanya/src/pcre/pcre_valid_utf8.c",
+  "file": "/Users/eitanya/src/pcre/pcre_valid_utf8.c"
+},
+
+{
+  "directory": "/Users/eitanya/src/pcre/build",
+  "command": "/usr/bin/clang -DHAVE_CONFIG_H -I. -I../  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/pcre.dir/pcre_version.c.o   -c /Users/eitanya/src/pcre/pcre_version.c",
+  "file": "/Users/eitanya/src/pcre/pcre_version.c"
+},
+
+{
+  "directory": "/Users/eitanya/src/pcre/build",
+  "command": "/usr/bin/clang -DHAVE_CONFIG_H -I. -I../  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/pcre.dir/pcre_xclass.c.o   -c /Users/eitanya/src/pcre/pcre_xclass.c",
+  "file": "/Users/eitanya/src/pcre/pcre_xclass.c"
+},
+
+{
+  "directory": "/Users/eitanya/src/pcre/build",
+  "command": "/usr/bin/clang++  -DHAVE_CONFIG_H -I. -I../  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/pcre_stringpiece_unittest.dir/pcre_stringpiece_unittest.cc.o -c /Users/eitanya/src/pcre/pcre_stringpiece_unittest.cc",
+  "file": "/Users/eitanya/src/pcre/pcre_stringpiece_unittest.cc"
+},
+
+{
+  "directory": "/Users/eitanya/src/pcre/build",
+  "command": "/usr/bin/clang++  -DHAVE_CONFIG_H -I. -I../  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/pcrecpp.dir/pcrecpp.cc.o -c /Users/eitanya/src/pcre/pcrecpp.cc",
+  "file": "/Users/eitanya/src/pcre/pcrecpp.cc"
+},
+
+{
+  "directory": "/Users/eitanya/src/pcre/build",
+  "command": "/usr/bin/clang++  -DHAVE_CONFIG_H -I. -I../  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/pcrecpp.dir/pcre_scanner.cc.o -c /Users/eitanya/src/pcre/pcre_scanner.cc",
+  "file": "/Users/eitanya/src/pcre/pcre_scanner.cc"
+},
+
+{
+  "directory": "/Users/eitanya/src/pcre/build",
+  "command": "/usr/bin/clang++  -DHAVE_CONFIG_H -I. -I../  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/pcrecpp.dir/pcre_stringpiece.cc.o -c /Users/eitanya/src/pcre/pcre_stringpiece.cc",
+  "file": "/Users/eitanya/src/pcre/pcre_stringpiece.cc"
+},
+
+{
+  "directory": "/Users/eitanya/src/pcre/build",
+  "command": "/usr/bin/clang -DHAVE_CONFIG_H -I. -I../  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/pcretest.dir/pcretest.c.o   -c /Users/eitanya/src/pcre/pcretest.c",
+  "file": "/Users/eitanya/src/pcre/pcretest.c"
+},
+
+{
+  "directory": "/Users/eitanya/src/pcre/build",
+  "command": "/usr/bin/clang -DHAVE_CONFIG_H -I. -I../  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/pcretest.dir/pcre_printint.c.o   -c /Users/eitanya/src/pcre/pcre_printint.c",
+  "file": "/Users/eitanya/src/pcre/pcre_printint.c"
+},
+
+{
+  "directory": "/Users/eitanya/src/pcre/build",
+  "command": "/usr/bin/clang -DHAVE_CONFIG_H -I. -I../  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/pcregrep.dir/pcregrep.c.o   -c /Users/eitanya/src/pcre/pcregrep.c",
+  "file": "/Users/eitanya/src/pcre/pcregrep.c"
+},
+
+{
+  "directory": "/Users/eitanya/src/pcre/build",
+  "command": "/usr/bin/clang++  -DHAVE_CONFIG_H -I. -I../  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/pcre_scanner_unittest.dir/pcre_scanner_unittest.cc.o -c /Users/eitanya/src/pcre/pcre_scanner_unittest.cc",
+  "file": "/Users/eitanya/src/pcre/pcre_scanner_unittest.cc"
+},
+
+{
+  "directory": "/Users/eitanya/src/pcre/build",
+  "command": "/usr/bin/clang -DHAVE_CONFIG_H -I. -I../  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/pcreposix.dir/pcreposix.c.o   -c /Users/eitanya/src/pcre/pcreposix.c",
+  "file": "/Users/eitanya/src/pcre/pcreposix.c"
+},
+
+{
+  "directory": "/Users/eitanya/src/pcre/build",
+  "command": "/usr/bin/clang++  -DHAVE_CONFIG_H -I. -I../  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/pcrecpp_unittest.dir/pcrecpp_unittest.cc.o -c /Users/eitanya/src/pcre/pcrecpp_unittest.cc",
+  "file": "/Users/eitanya/src/pcre/pcrecpp_unittest.cc"
+}
+]

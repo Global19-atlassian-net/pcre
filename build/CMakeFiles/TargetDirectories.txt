@@ -1,0 +1,15 @@
+/Users/eitanya/src/pcre/build/CMakeFiles/install/local.dir
+/Users/eitanya/src/pcre/build/CMakeFiles/install.dir
+/Users/eitanya/src/pcre/build/CMakeFiles/rebuild_cache.dir
+/Users/eitanya/src/pcre/build/CMakeFiles/pcre.dir
+/Users/eitanya/src/pcre/build/CMakeFiles/edit_cache.dir
+/Users/eitanya/src/pcre/build/CMakeFiles/pcre_stringpiece_unittest.dir
+/Users/eitanya/src/pcre/build/CMakeFiles/pcrecpp.dir
+/Users/eitanya/src/pcre/build/CMakeFiles/pcretest.dir
+/Users/eitanya/src/pcre/build/CMakeFiles/list_install_components.dir
+/Users/eitanya/src/pcre/build/CMakeFiles/pcregrep.dir
+/Users/eitanya/src/pcre/build/CMakeFiles/install/strip.dir
+/Users/eitanya/src/pcre/build/CMakeFiles/pcre_scanner_unittest.dir
+/Users/eitanya/src/pcre/build/CMakeFiles/pcreposix.dir
+/Users/eitanya/src/pcre/build/CMakeFiles/test.dir
+/Users/eitanya/src/pcre/build/CMakeFiles/pcrecpp_unittest.dir
